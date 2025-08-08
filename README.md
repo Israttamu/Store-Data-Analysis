@@ -7,7 +7,7 @@ The interactive Excel dashboard provides valuable insights into customer demogra
 
 ## 📊 Dashboard Overview
 
-![Dashboard Screenshot](images/Dashboard.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ---
 
@@ -42,5 +42,6 @@ The interactive Excel dashboard provides valuable insights into customer demogra
   - Data cleaning & formatting
 
 ---
+
 
 
