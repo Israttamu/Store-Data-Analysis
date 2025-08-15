@@ -1,4 +1,4 @@
-# 🛍️ Vrinda Store Data Analysis & Dashboard (2022)
+# 🛍️ Store Data Analysis & Dashboard (2022)
 
 This project analyzes sales and order data from **Vrinda Store** for the year 2022.  
 The interactive Excel dashboard provides valuable insights into customer demographics, sales performance, top locations, and sales channels.
@@ -42,6 +42,7 @@ The interactive Excel dashboard provides valuable insights into customer demogra
   - Data cleaning & formatting
 
 ---
+
 
 
 
